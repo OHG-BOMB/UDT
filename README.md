@@ -1,6 +1,6 @@
 # UTC
-DBF tool for preliminary design on small aircrafts
-To start enter a command from the following commands list:
+DBF tool for preliminary design on small aircrafts<br/>
+To start enter a command from the following commands list:<br/>
 /help              -> Get all commands <br/>
 /clear             -> Gives clean space <br/>
 /exit              -> Terminates the program <br/>
